@@ -1,1 +1,1 @@
-sudo apt-get install zip
+sudo apt-get install zip --y
